@@ -4,9 +4,10 @@ const router = express.Router()
 const bcrypt = require('bcryptjs')
 const authenticate = require('../middleware/authenticate') 
 
-router.get('/',(req,res)=>{
-    res.send("Home from router .js ");
-})
+// router.get('/',(req,res)=>{
+//     res.send("Home from router .js ");
+// })
+
 
 require("../db/conn")
 const User = require("../model/userSchema")
@@ -44,7 +45,6 @@ const User = require("../model/userSchema")
 
 //     // res.json({message:req.body})
 //     // res.json(req.body)
-
 // })
 
 
