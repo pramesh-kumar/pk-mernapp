@@ -32,8 +32,6 @@ const path = require("path")
 //     next();
 // }
 
-
-
 // app.get("/about",Mid
 //  dleware,(req,res)=>{
 //     res.send("About Me")

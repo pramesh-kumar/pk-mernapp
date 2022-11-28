@@ -83,9 +83,9 @@ const About = () => {
               </div>
             </div>
 
-              <div className='col-md-2'>
+              {/* <div className='col-md-2'>
                 <input type="submit" className='edit_profile_btn' name='btnAddMore' value='Edit Profile'></input>
-              </div>
+              </div> */}
           </div>
 
           <div>
