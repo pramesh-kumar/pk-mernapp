@@ -61,7 +61,7 @@ const Login = () => {
 
 
           <div className='signup-form'>
-            <h2 className='form-title'>Sign Up</h2>
+            <h2 className='form-title'>Login</h2>
             <form method='POST' className='register-form' id='register-form'>
 
               <div className='form-group'>

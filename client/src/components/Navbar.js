@@ -17,19 +17,19 @@
 //           <li className="nav-item active">
 //             <NavLink className="nav-link" to="/">Home <span className="sr-only">(current)</span></NavLink>
 //           </li>
-        //   <li className="nav-item">
-        //     <NavLink className="nav-link" to="/about">About</NavLink>
-        //   </li>
-        //   <li className="nav-item">
-        //     <NavLink className="nav-link" to="/contact">Contact</NavLink>
-        //   </li>
-        //   <li className="nav-item">
-        //     <NavLink className="nav-link" to="/login">Login</NavLink>
-        //   </li>
-        //   <li className="nav-item">
-        //     <NavLink className="nav-link" to="/signup">Registration</NavLink>
-        //   </li>
-        // </ul>
+//           <li className="nav-item">
+//             <NavLink className="nav-link" to="/about">About</NavLink>
+//           </li>
+//           <li className="nav-item">
+//             <NavLink className="nav-link" to="/contact">Contact</NavLink>
+//           </li>
+//           <li className="nav-item">
+//             <NavLink className="nav-link" to="/login">Login</NavLink>
+//           </li>
+//           <li className="nav-item">
+//             <NavLink className="nav-link" to="/signup">Registration</NavLink>
+//           </li>
+//         </ul>
         
 //         </div>
 //       </NavLink>
